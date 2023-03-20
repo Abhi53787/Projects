@@ -1,0 +1,29 @@
+class Grocery_Item: 
+    
+    def __init__(self, name, price, discount):
+        
+
+        self.name = name
+        
+
+        self.price =price 
+        self.discount=discount
+        
+
+
+
+    def display_info(self):
+        
+    
+        print(self.name, "is $", self.price)
+        
+    def extra():
+        
+    
+     
+            
+        
+apple = Grocery_Item("apple", 4, False)
+cheerios =Grocery_Item("cheerios", 4, True)
+apple.display_info()
+cheerios.display_info()
