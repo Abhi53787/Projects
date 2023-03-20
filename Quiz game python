@@ -1,0 +1,37 @@
+print("Welcome to computer quiz 🙃\n")
+print("Are you willing to start the quiz ?")
+response= input()
+response=response.lower()
+if response != "yes":
+    quit()
+print("Welcome questions are being loading.....\n")
+score=0
+answer= input("What is meant by CPU ").lower()
+if answer=="central processing unit":
+    print("Correct!")
+    score+=1
+else:
+    print("Incorrect😟")
+answer= input("What is meant by GPU ").lower()
+if answer=="graphics processing unit":
+    print("Correct!")
+    score+=1
+else:
+    print("Incorrect😟")
+
+answer= input("What is meant by PSU ").lower()
+if answer=="power supply unit":
+    print("Correct!")
+    score+=1
+else:
+    print("Incorrect😟")
+answer= input("Who invented computer ").lower()
+if answer=="charles babbage":
+    print("Correct!")
+    score+=1
+else:
+    print("Incorrect😟")
+score = ((score/4)*100)
+score2= str(score)
+print("The score is "+score2 +"%")
+
