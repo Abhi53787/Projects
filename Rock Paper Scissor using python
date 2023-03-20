@@ -23,13 +23,13 @@ while True:
 
             user_wins+=1
 
-            print("user wins")
+            print("You won")
         elif user_pick =='paper' and computer_pick =='rock':
             user_wins += 1
-            print("user wins")
+            print("You won")
         elif user_pick =='scissor' and computer_pick =='paper':
             user_wins += 1
-            print("user wins")
+            print("You won")
 
 
 
@@ -43,8 +43,8 @@ while True:
 
 user_wins=str(user_wins)
 computer_wins=str(computer_wins)
-print("You got the score of"+ user_wins+"👌\n")
-print("Computer got the score of"+ computer_wins +"😶")
+print("You got the score of "+ user_wins+" "+"👌\n")
+print("Computer got the score of "+ computer_wins + " "+"😶")
 
 print("Good bye!")
 
