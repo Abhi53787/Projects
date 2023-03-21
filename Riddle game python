@@ -1,0 +1,38 @@
+print("Welcome to our world")
+name=input("enter your name to continue!")
+box=['yes','no']
+ready=input("Are you ready to enter into our world?").lower()
+
+if ready not in box:
+    print("Try again later")
+
+
+
+elif ready=='yes':
+     print('Welcome to our world!')
+     print("You are in a place \n")
+     print("There you have 3 door to go out of the way!")
+     print("Inside of 1st door there is a powerful transformer that can kill human!")
+     print("Inside of 2nd door there is full of dangerous plants that can kill human!")
+     print("Inside of 3rd door there is lion The lion is full of hungry and it did eat nothing from past 10 days")
+     select=input("choose & type one or two or three").lower()
+     box1=['one','two','three']
+     if select not in box1:
+         print("Try again")
+     elif select=='one':
+         print(
+             "You lose The answer is 3rd door because lion did not eat anything from past 10 days so definetly lion will die so you can go from 3rd door😁")
+     elif select=='two':
+         print(
+             "You lose The answer is 3rd door because lion did not eat anything from past 10 days so definetly lion will die so you can go from 3rd door😁")
+
+
+     else:
+         print("You Genius!")
+
+
+else:
+    print("Bye!")
+
+
+
