@@ -1,0 +1,56 @@
+public class Main
+{
+  static void method (String name)
+  {
+    System.out.println (name + " " + "for Calculator");
+
+  }
+
+  static void addition (float a, float b)
+  {
+
+    System.out.println ("the answer for add is" + " " + (a + b));
+  }
+
+  static void subtraction (float a, float b)
+  {
+    System.out.println ("The answer for sub😌 is" + " " + (a - b));
+  }
+
+  static void multiplication (float a, float b)
+  {
+    System.out.println ("The answer for multi is" + " " + (a * b));
+  }
+
+  static void division (float a, float b)
+  {
+    System.out.println ("The answer for division  is" + " " + (a / b));
+  }
+
+  static void remainder (float a, float b)
+  {
+    System.out.println ("The answer for mod is" + " " + (a % b));
+  }
+
+  static void percentage (float a)
+  {
+    System.out.println ("The percentage of" + a + "is" + " " + (a / 100));
+  }
+
+
+
+
+  public static void main (String[]args)
+  {
+    method ("The Program");
+
+    addition (5, 6);
+    subtraction (9, 8);
+    multiplication (8, 87);
+    division (5, 9);
+    remainder (4, 2);
+    percentage (5);
+
+  }
+
+}
