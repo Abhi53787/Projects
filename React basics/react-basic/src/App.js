@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import AddTask from './components/AddTask';
 import TaskList from './components/TaskList';
@@ -7,7 +7,7 @@ const TASK_ARRAY = ["ReactJs","NodeJs","Java"];
 function App() {
 
   const [taskArray, setTaskArray]=useState(TASK_ARRAY);
- 
+
   //callback func, now parent class(app.js) sends the function() to child class(AddTask) so child class now sends the info that is collected and sends to parent class through the function .
   const addDataToTask = (Task) => {
     console.log(Task,"from app");
@@ -21,7 +21,6 @@ function App() {
   }
   return (
     <div className="App">
-
 
       <AddTask data={taskArray} getData = {addDataToTask}/>
       <TaskList taskData ={taskArray} onDeleteTask={removeTask} />

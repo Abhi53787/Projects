@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\LibraryManagementUnitTesting.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\LibraryManagementUnitTesting.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\obj\Debug\LibraryManagementUnitTesting.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\obj\Debug\LibraryManagementUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\obj\Debug\LibraryM.27AAA5D6.Up2Date
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\obj\Debug\LibraryManagementUnitTesting.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\obj\Debug\LibraryManagementUnitTesting.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementUnitTesting\bin\Debug\BusinessLayer.pdb

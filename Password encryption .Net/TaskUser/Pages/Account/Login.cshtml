@@ -1,0 +1,32 @@
+﻿@page
+@model TaskUser.Pages.Account.LoginModel
+@{
+
+}
+
+<form method="post">
+	<h2>@ViewData["error-msg"]</h2>
+
+	<div class="row">
+		<div class="col-md-4">
+			Email : <input type="text" class="form-control" name="Email" />
+
+		</div>
+
+	</div>
+	<div class="row">
+		<div class="col-md-4">
+			Password :	<input type="password" class="form-control" name="Password" />
+		</div>
+	</div>
+	<div class=" row">
+		<div class="col-md-4">
+			<button type="submit" class="btn btn-success">Login
+
+			</button>
+
+		</div>
+	</div>
+
+
+</form>

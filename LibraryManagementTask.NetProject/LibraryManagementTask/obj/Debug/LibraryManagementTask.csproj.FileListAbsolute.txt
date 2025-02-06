@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\bin\Debug\LibraryManagementTask.exe.config
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\bin\Debug\LibraryManagementTask.exe
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\bin\Debug\LibraryManagementTask.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\obj\Debug\LibraryManagementTask.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\obj\Debug\LibraryManagementTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\obj\Debug\LibraryManagementTask.exe
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\obj\Debug\LibraryManagementTask.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\bin\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\LibraryManagementTask\obj\Debug\LibraryM.9BD0B509.Up2Date

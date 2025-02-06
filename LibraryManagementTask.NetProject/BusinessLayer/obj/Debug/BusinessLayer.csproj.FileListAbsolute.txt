@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\USER\Desktop\Projects\.NET pro\LibraryManagementTask\BusinessLayer\obj\Debug\BusinessLayer.pdb
